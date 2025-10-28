@@ -37,6 +37,10 @@ Region & year analysis | Sales growth, regional trends
 ###  Outcome
 This assignment helped strengthen my foundation in business analytics and data visualization through hands-on exercises.
 
+## Dashboard Preview
+
+![Sales Dashboard](images/sales-dashboard.png)
+
 ---
 **Created by:** Shara Khandakar  
  Ottawa, ON | Business Intelligence Student  
