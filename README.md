@@ -39,7 +39,7 @@ This assignment helped strengthen my foundation in business analytics and data v
 
 ## Dashboard Preview
 
-![Sales Dashboard](images/sales-dashboard.png)
+![Sales Dashboard](images/)
 
 ---
 **Created by:** Shara Khandakar  
